@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(205, 205, 205);
+  color: rgb(164, 0, 144);
+  font-family: 'Noto Serif', serif;
+}
+
+.greeting {
+  font-size: 35px;
+  color: rgb(164, 0, 144);
+  background-color: rgb(255, 255, 255);
+}
+
+span {
+
+}
+
+#flash-card {
+  padding: 20px;
+  height: 300px;
+  width: 300px;
+
+}
